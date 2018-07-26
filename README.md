@@ -33,6 +33,8 @@ $ sudo raspi-config"
 
 ## Install docker
 
+To install docker, just run following script. Sometimes after the installation, it reports some problems. But the installation seems to be complete. Reboot system and try `sudo docker ps`.
+
 ```
 curl -sSL https://get.docker.com | sh
 ```
