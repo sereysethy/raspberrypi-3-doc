@@ -6,6 +6,8 @@ This repository describes step to install and configure [Raspberry Pi 3](https:/
 - Install `docker` and `docker-compose`
 - Development tools such as `git`, `gcc`, etc.
 
+To install raspbian image on SD card, follow this [instruction](https://www.raspberrypi.org/documentation/installation/installing-images/README.md ).
+
 # 1 - Update system
 
 ```
