@@ -65,5 +65,15 @@ sudo pip install docker-compose # to install globally
 # 3 - Development
 
 ```
-sudo apt-get install -y build-essential git python
+sudo apt-get install -y build-essential git python vim
 ```
+
+# 4 - Python 3
+
+Install `pip3` for `python3`
+
+```
+sudo apt-get install python3-pip
+```
+
+More info on how to install `python`, [read more](https://www.raspberrypi.org/documentation/linux/software/python.md '')
